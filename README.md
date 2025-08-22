@@ -1,4 +1,4 @@
-# Olá, eu sou o Artur Cangussu! 👋
+# Olá, eu sou o Artur Cangussu! 
 
 Meu objetivo é atuar como **Desenvolvedor Back-End**. Sou apaixonado por usar a tecnologia para criar soluções reais e eficientes, transformando o conhecimento que adquiro em projetos práticos e funcionais.
 
@@ -71,7 +71,7 @@ Com uma base sólida em **Python** e no ecossistema **Django**, comprovada em me
         <p>
           <strong>Demonstra habilidades em:</strong> Desenvolvimento Frontend, Design Responsivo (Mobile First), UX/UI e Integração com APIs (WhatsApp).
         </p>
-        <a href="[COLE-AQUI-O-LINK-DO-SEU-REPOSITORIO-MILA-DESIGNER]" target="_blank">
+        <a href="https://github.com/ArturCangussu/MilaDesigner" target="_blank">
           <img src="https://img.shields.io/badge/Ver%20Repositório-%231DA1F2?style=for-the-badge&logo=github&logoColor=white">
         </a>
       </div>
@@ -83,7 +83,7 @@ Com uma base sólida em **Python** e no ecossistema **Django**, comprovada em me
         <p>
           <strong>Demonstra habilidades em:</strong> Automação, Modelagem de Dados, Desenvolvimento Back-End com Django e manipulação de dados com Pandas.
         </p>
-        <a href="https://github.com/Artur-Cangussu/FINALYTICS_EMPRESARIAL" target="_blank">
+        <a href="https://github.com/ArturCangussu/Finalytics_EMPRESARIAL" target="_blank">
           <img src="https://img.shields.io/badge/Ver%20Repositório-%231DA1F2?style=for-the-badge&logo=github&logoColor=white">
         </a>
       </div>
@@ -97,7 +97,7 @@ Com uma base sólida em **Python** e no ecossistema **Django**, comprovada em me
         <p>
           <strong>Demonstra habilidades em:</strong> Desenvolvimento Frontend, DOM Manipulation, design responsivo com Bootstrap e lógica de cliente.
         </p>
-        <a href="https://github.com/Artur-Cangussu/Site-de-livros" target="_blank">
+        <a href="https://github.com/ArturCangussu/PROJETO-FINAL-DEV-WEB-I" target="_blank">
           <img src="https://img.shields.io/badge/Ver%20Repositório-%231DA1F2?style=for-the-badge&logo=github&logoColor=white">
         </a>
       </div>
