@@ -71,20 +71,20 @@ Com uma base sólida em **Python** e no ecossistema **Django**, comprovada em me
         <p>
           <strong>Demonstra habilidades em:</strong> Automação, Modelagem de Dados, Desenvolvimento Back-End com Django e manipulação de dados com Pandas.
         </p>
-        <a href="https://github.com/Artur-Cangussu/FINALYTICS_EMPRESARIAL" target="_blank">
+        <a href="https://github.com/ArturCangussu/Finalytics_EMPRESARIAL" target="_blank">
           <img src="https://img.shields.io/badge/Ver%20Repositório-%231DA1F2?style=for-the-badge&logo=github&logoColor=white">
         </a>
       </div>
     </td>
-    <td width="50%" valign="top">
-      <h3 align="center">Mila Designer</h3>
+    <td width="50%">
+      <h3 align="center">Mila Designer – Portfólio Profissional Responsivo</h3>
       <div align="center">
-        <p><em>(Descreva o projeto Mila Designer aqui. Qual o objetivo dele? O que ele faz?)</em></p>
+        <p>Um site-portfólio estático, elegante e totalmente responsivo (Mobile First) para uma profissional da beleza, com foco em conversão de clientes através de uma integração inteligente com o WhatsApp.</p>
         <p>
-          <strong>Demonstra habilidades em:</strong> <em>(Ex: UI/UX Design, Figma, WordPress, etc.)</em>
+          <strong>Demonstra habilidades em:</strong> Desenvolvimento Frontend, Design Responsivo (Mobile First), UX/UI e Integração com APIs (WhatsApp).
         </p>
-        <a href="[LINK PARA O PROJETO MILA DESIGNER]" target="_blank">
-          <img src="https://img.shields.io/badge/Ver%20Projeto-%231DA1F2?style=for-the-badge&logo=github&logoColor=white">
+        <a href="https://github.com/ArturCangussu/MilaDesigner" target="_blank">
+          <img src="https://img.shields.io/badge/Ver%20Repositório-%231DA1F2?style=for-the-badge&logo=github&logoColor=white">
         </a>
       </div>
     </td>
@@ -97,7 +97,7 @@ Com uma base sólida em **Python** e no ecossistema **Django**, comprovada em me
         <p>
           <strong>Demonstra habilidades em:</strong> Desenvolvimento Full-Stack, Análise de Dados com Pandas e Automação de tarefas.
         </p>
-        <a href="https://github.com/Artur-Cangussu/FINALYTICS_PESSOAL" target="_blank">
+        <a href="https://github.com/ArturCangussu/Finalytics_Pessoal" target="_blank">
           <img src="https://img.shields.io/badge/Ver%20Repositório-%231DA1F2?style=for-the-badge&logo=github&logoColor=white">
         </a>
       </div>
@@ -109,7 +109,7 @@ Com uma base sólida em **Python** e no ecossistema **Django**, comprovada em me
         <p>
           <strong>Demonstra habilidades em:</strong> Desenvolvimento Frontend, DOM Manipulation, design responsivo com Bootstrap e lógica de cliente.
         </p>
-        <a href="https://github.com/Artur-Cangussu/Site-de-livros" target="_blank">
+        <a href="https://github.com/ArturCangussu/PROJETO-FINAL-DEV-WEB-I" target="_blank">
           <img src="https://img.shields.io/badge/Ver%20Repositório-%231DA1F2?style=for-the-badge&logo=github&logoColor=white">
         </a>
       </div>
