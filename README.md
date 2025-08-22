@@ -64,46 +64,56 @@ Com uma base sólida em **Python** e no ecossistema **Django**, comprovada em me
 
 <table>
   <tr>
-    <td width="50%">
-      <h3 align="center">Mila Designer – Portfólio Profissional Responsivo</h3>
-      <div align="center">
-        <p>Um site-portfólio estático, elegante e totalmente responsivo (Mobile First) para uma profissional da beleza, com foco em conversão de clientes através de uma integração inteligente com o WhatsApp.</p>
-        <p>
-          <strong>Demonstra habilidades em:</strong> Desenvolvimento Frontend, Design Responsivo (Mobile First), UX/UI e Integração com APIs (WhatsApp).
-        </p>
-        <a href="https://github.com/ArturCangussu/MilaDesigner" target="_blank">
-          <img src="https://img.shields.io/badge/Ver%20Repositório-%231DA1F2?style=for-the-badge&logo=github&logoColor=white">
-        </a>
-      </div>
-    </td>
-    <td width="50%">
+    <td width="50%" valign="top">
       <h3 align="center">Finanalytics – Plataforma de Conciliação Financeira</h3>
       <div align="center">
         <p>Uma plataforma web full-stack que automatiza a complexa tarefa de conciliação financeira, processando diferentes formatos de arquivos (.xlsx, .html, .csv) e identificando divergências com precisão.</p>
         <p>
           <strong>Demonstra habilidades em:</strong> Automação, Modelagem de Dados, Desenvolvimento Back-End com Django e manipulação de dados com Pandas.
         </p>
-        <a href="https://github.com/ArturCangussu/Finalytics_EMPRESARIAL" target="_blank">
+        <a href="https://github.com/Artur-Cangussu/FINALYTICS_EMPRESARIAL" target="_blank">
           <img src="https://img.shields.io/badge/Ver%20Repositório-%231DA1F2?style=for-the-badge&logo=github&logoColor=white">
+        </a>
+      </div>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">Mila Designer</h3>
+      <div align="center">
+        <p><em>(Descreva o projeto Mila Designer aqui. Qual o objetivo dele? O que ele faz?)</em></p>
+        <p>
+          <strong>Demonstra habilidades em:</strong> <em>(Ex: UI/UX Design, Figma, WordPress, etc.)</em>
+        </p>
+        <a href="[LINK PARA O PROJETO MILA DESIGNER]" target="_blank">
+          <img src="https://img.shields.io/badge/Ver%20Projeto-%231DA1F2?style=for-the-badge&logo=github&logoColor=white">
         </a>
       </div>
     </td>
   </tr>
   <tr>
-    <td width="50%">
+    <td width="50%" valign="top">
+      <h3 align="center">Finanalytics – Analisador Financeiro Pessoal</h3>
+      <div align="center">
+        <p>Aplicação web para automação da análise financeira pessoal a partir de extratos bancários em Excel (.xlsx), com categorização de transações baseada em regras customizáveis.</p>
+        <p>
+          <strong>Demonstra habilidades em:</strong> Desenvolvimento Full-Stack, Análise de Dados com Pandas e Automação de tarefas.
+        </p>
+        <a href="https://github.com/Artur-Cangussu/FINALYTICS_PESSOAL" target="_blank">
+          <img src="https://img.shields.io/badge/Ver%20Repositório-%231DA1F2?style=for-the-badge&logo=github&logoColor=white">
+        </a>
+      </div>
+    </td>
+    <td width="50%" valign="top">
       <h3 align="center">Biblioteca Genesis – Website Interativo</h3>
       <div align="center">
         <p>Um website interativo e responsivo que demonstra a criação de uma experiência de usuário fluida com JavaScript puro para funcionalidades dinâmicas como busca em tempo real e validação de formulários.</p>
         <p>
           <strong>Demonstra habilidades em:</strong> Desenvolvimento Frontend, DOM Manipulation, design responsivo com Bootstrap e lógica de cliente.
         </p>
-        <a href="https://github.com/ArturCangussu/PROJETO-FINAL-DEV-WEB-I" target="_blank">
+        <a href="https://github.com/Artur-Cangussu/Site-de-livros" target="_blank">
           <img src="https://img.shields.io/badge/Ver%20Repositório-%231DA1F2?style=for-the-badge&logo=github&logoColor=white">
         </a>
       </div>
     </td>
-    <td width="50%">
-      </td>
   </tr>
 </table>
 
@@ -112,6 +122,6 @@ Com uma base sólida em **Python** e no ecossistema **Django**, comprovada em me
 ### 📊 Minhas Estatísticas no GitHub
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Artur-Cangussu&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Artur-Cangussu&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ArturCangussu&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArturCangussu&layout=compact&langs_count=7&theme=tokyonight"/>
 </p>
