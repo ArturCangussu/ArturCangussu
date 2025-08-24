@@ -1,6 +1,6 @@
 # Olá, eu sou o Artur Cangussu! 
 
-Meu objetivo é atuar como **Desenvolvedor Back-End**. Sou apaixonado por usar a tecnologia para criar soluções reais e eficientes, transformando o conhecimento que adquiro em projetos práticos e funcionais.
+Meu objetivo é atuar como **Desenvolvedor Back-End**. Transformando o conhecimento que adquiro em projetos práticos e funcionais.
 
 Com uma base sólida em **Python** e no ecossistema **Django**, comprovada em meus projetos, estou em um processo de **aprendizado contínuo** para expandir minhas habilidades, com foco atual em **Java** e **MySQL**. Acredito que a iniciativa, o raciocínio lógico e a colaboração em equipe são as chaves para entregar resultados de alto impacto.
 
