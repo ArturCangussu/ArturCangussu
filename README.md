@@ -8,11 +8,7 @@ Com uma base sólida em **Python** e no ecossistema **Django**, comprovada em me
   <a href="https://www.linkedin.com/in/artur-cangussu/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
   </a>
-  <a href="mailto:arturcangussubt@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
-  </a>
 </p>
-
 ---
 
 ### 🛠️ Tecnologias e Ferramentas
